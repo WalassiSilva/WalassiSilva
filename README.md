@@ -3,7 +3,7 @@
 <div>
   <h2>Estudante na área de tecnologia com foco em desenvolvimento web</h2>
   <h3>Atuação profissional</h3>
-  <li>Gerente Adiministrativo na Diorges Oliveira Martins Ltda</li>
+  <li>Desenvolvedor FrontEnd Junior</li>
 
   <h2>Estatística no GitHub</h2>
 <a href="https://github.com/WalassiSilva">
@@ -31,11 +31,11 @@
 <div>
   <h2>Projetos em destaques</h2>
   
-  <a href="https://github.com/WalassiSilva/portfolio-2d"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=portfolio-2d" /></a> <br/>
+  <a href="https://github.com/WalassiSilva/my-portfolio-next"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=my-portfolio-next" /></a> <br/>
   
-  <a href="https://github.com/WalassiSilva/portfolio-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=portfolio-react" /></a> <br/>
+  <a href="https://github.com/WalassiSilva/node-api-NLW"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=node-api-NLW" /></a> <br/>
   
-  <a href="https://github.com/WalassiSilva/pokedex-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=pokedex-api" /></a> <br/>
+  <a href="https://github.com/WalassiSilva/pokenext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=pokenext" /></a> <br/>
   
 </div>
 
