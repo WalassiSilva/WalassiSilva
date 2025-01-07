@@ -33,9 +33,11 @@
   
   <a href="https://github.com/WalassiSilva/my-portfolio-next"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=my-portfolio-next" /></a> <br/>
   
-  <a href="https://github.com/WalassiSilva/node-api-NLW"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=node-api-NLW" /></a> <br/>
+  <a href="https://github.com/WalassiSilva/petsoft-next-fullstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=petsoft-next-fullstack" /></a> <br/>
   
-  <a href="https://github.com/WalassiSilva/pokenext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=pokenext" /></a> <br/>
+  <a href="https://github.com/WalassiSilva/react-rmtdev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=react-rmtdev" /></a> <br/>
+  
+  <a href="https://github.com/WalassiSilva/node-api-NLW"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalassiSilva&repo=node-api-NLW" /></a> <br/>
   
 </div>
 
